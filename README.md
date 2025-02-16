@@ -29,27 +29,27 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
 
 ## Usage
 
-1. Navigate to the directory containing [app.py](http://_vscodecontentref_/0):
+1. Navigate to the directory containing [chintu.py](http://_vscodecontentref_/0):
     ```sh
     cd streamlit_tutor_app
     ```
 
 2. Run the Streamlit application:
     ```sh
-    streamlit run app.py
+    streamlit run chintu.py
     ```
 
 3. Open your web browser and go to `http://localhost:8501` to access the application.
 
 ## Configuration
 
-- Replace the placeholder API key in [app.py](http://_vscodecontentref_/1) with your valid Google Generative AI API key:
+- Replace the placeholder API key in [chintu.py](http://_vscodecontentref_/1) with your valid Google Generative AI API key:
     ```python
     genai.configure(api_key="YOUR_VALID_API_KEY")
     ```
 
 ## File Structure
 
-Data-Science-Tutor-App/ │ ├── app.py # Main application file
+Data-Science-Tutor-App/ │ ├── chintu.py #
                         ├── requirements.txt # List of required packages 
                         └── venv/ # Virtual environment directory
