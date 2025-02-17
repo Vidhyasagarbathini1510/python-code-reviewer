@@ -39,8 +39,6 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
     streamlit run chintu.py
     ```
 
-3. Open your web browser and go to `http://localhost:8` to access the application.
-
 ## Configuration
 
 - Replace the placeholder API key in [chintu.py](http://_vscodecontentref_/1) with your valid Google Generative AI API key:
@@ -53,6 +51,6 @@ python-code-reviewer/ │ ├── chintu.py #
                         ├── requirements.txt # List of required packages 
                         └── venv/ # Virtual environment directory
 ## click the link below and it will run
-       https://python-tutor.streamlit.app/
+        (https://python-tutor.streamlit.app/)
           
                         
