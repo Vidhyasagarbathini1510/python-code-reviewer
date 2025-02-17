@@ -49,7 +49,6 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
     ```
 
 ## File Structure
-
-Data-Science-Tutor-App/ │ ├── chintu.py #
+python-code-reviewer/ │ ├── chintu.py #
                         ├── requirements.txt # List of required packages 
                         └── venv/ # Virtual environment directory
