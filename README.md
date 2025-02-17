@@ -12,7 +12,7 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
 
 1. Clone the repository:
     ```sh
-    git clone (https://github.com/AkashChoudharyPNC/Data-Science-Tutor-App-.git)
+    git clone(https://github.com/Vidhyasagarbathini1510/python-code-reviewer)
     cd your-repo-name
     ```
 
@@ -39,7 +39,7 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
     streamlit run chintu.py
     ```
 
-3. Open your web browser and go to `http://localhost:8501` to access the application.
+3. Open your web browser and go to `http://localhost:8` to access the application.
 
 ## Configuration
 
@@ -52,3 +52,7 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
 python-code-reviewer/ │ ├── chintu.py #
                         ├── requirements.txt # List of required packages 
                         └── venv/ # Virtual environment directory
+## click the link below and it will run
+       https://python-tutor.streamlit.app/
+          
+                        
