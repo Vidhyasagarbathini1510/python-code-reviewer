@@ -51,6 +51,8 @@ python-code-reviewer/ │ ├── chintu.py #
                         ├── requirements.txt # List of required packages 
                         └── venv/ # Virtual environment directory
 ## click the link below and it will run
-        (https://python-tutor.streamlit.app/)
+        https://python-tutor.streamlit.app/
+        [Visit GitHub](https://github.com)
+
           
                         
